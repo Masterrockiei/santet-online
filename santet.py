@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # BlackHole Security
 ##
-import telethon
 import os, sys, time, socket, random, requests
 from telethon import TelegramClient, sync, utils
 
